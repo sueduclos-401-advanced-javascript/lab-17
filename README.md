@@ -19,7 +19,6 @@ Your application should automatically generate random orders every 5 seconds. Th
 ### Links and Resources
 
 - [submission PR]()
-- [ci/cd]() 
 
 ### Setup
 
