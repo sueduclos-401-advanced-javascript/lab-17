@@ -18,8 +18,7 @@ Your application should automatically generate random orders every 5 seconds. Th
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() 
+- [submission PR](https://github.com/sueduclos-401-advanced-javascript/lab-17/pull/1)
 
 ### Setup
 
@@ -27,12 +26,14 @@ Your application should automatically generate random orders every 5 seconds. Th
 
 #### How to initialize/run your application
 
-- `npm init`
+- `nodemon server.js`
+- `nodemon driver.js`
+- `nodemon vendor.js`
 
 #### Tests
 
-- `npm test`
+- N/A
 
 #### UML
 
-- [UML] ()
+- ![UML16]()
