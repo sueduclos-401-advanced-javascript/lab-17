@@ -36,4 +36,4 @@ Your application should automatically generate random orders every 5 seconds. Th
 
 #### UML
 
-- ![UML16]()
+- ![UML16](https://github.com/sueduclos-401-advanced-javascript/lab-17/blob/master/assets/lab-16-uml.jpg)
